@@ -1,0 +1,20 @@
+http://localhost/pgadmin4/login
+
+crede
+ - santhiyaprotecto@gmail.com
+ pwd:admin
+ 
+ PgAdmin
+ /home/protecto/Documents/Pg-Admin/test/docker-compose.yml
+
+ stop postress already running issue
+ ps auxw | grep post
+
+ if  postgres still running,
+ sudo service postgresql stop
+
+
+sudo systemctl stop postgresql@16-main
+sudo systemctl stop postgresql@15-main
+
+ 
